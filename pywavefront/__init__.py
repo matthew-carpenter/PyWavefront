@@ -151,3 +151,7 @@ class ObjParser(parser.Parser):
     def parse_s(self, args):
         # unimplemented
         return
+    
+    def parse_g(self, args):
+        # unimplemented
+        return
